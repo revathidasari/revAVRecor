@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AVRecorder</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="label_permissions">Please enable Microphone and Storage permissions.</string>
+</resources>
